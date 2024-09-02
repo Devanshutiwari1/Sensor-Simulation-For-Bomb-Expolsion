@@ -1,5 +1,4 @@
-"# Sensor-Simulation-For-Bomb-Expolsion" 
-"# Sensor-Simulation-For-Bomb-Expolsion" 
+
 ### Project Description: Sensor Simulation for Bomb Explosion in Java
 
 The **Sensor Simulation for Bomb Explosion** project is a comprehensive Java-based application designed to simulate the detection and impact analysis of bomb explosions. This simulation leverages multiple technologies and advanced programming concepts to deliver an accurate and responsive system for modeling sensor behavior in explosive scenarios.
